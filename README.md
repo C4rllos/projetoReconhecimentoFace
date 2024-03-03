@@ -24,4 +24,5 @@ O Detector de Caracteres e Elementos está funcional e oferece um bom desempenho
 
 ## Créditos
 
-Este projeto foi possível graças à plataforma Azure e à Digital Innovation One (DIO), que forneceram recursos e suporte para o desenvolvimento e treinamento da máquina.
+Este projeto foi possível graças à plataforma Azure e à Digital Innovation One (DIO), que forneceram recursos e suporte para o desenvolvimento e treinamento diversos em tecnologia.
+
